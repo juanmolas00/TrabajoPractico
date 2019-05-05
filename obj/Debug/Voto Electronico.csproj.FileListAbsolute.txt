@@ -1,0 +1,64 @@
+C:\Users\Ismas\source\repos\Voto Electronico\Voto Electronico\obj\Debug\Voto Electronico.csprojResolveAssemblyReference.cache
+C:\Users\Ismas\source\repos\Voto Electronico\Voto Electronico\obj\Debug\Voto_Electronico.Properties.Resources.resources
+C:\Users\Ismas\source\repos\Voto Electronico\Voto Electronico\obj\Debug\Voto Electronico.csproj.GenerateResource.Cache
+C:\Users\Ismas\source\repos\Voto Electronico\Voto Electronico\obj\Debug\Voto Electronico.csproj.CoreCompileInputs.cache
+C:\Users\Ismas\source\repos\Voto Electronico\Voto Electronico\bin\Debug\Voto Electronico.exe.config
+C:\Users\Ismas\source\repos\Voto Electronico\Voto Electronico\bin\Debug\Voto Electronico.exe
+C:\Users\Ismas\source\repos\Voto Electronico\Voto Electronico\bin\Debug\Voto Electronico.pdb
+C:\Users\Ismas\source\repos\Voto Electronico\Voto Electronico\obj\Debug\Voto Electronico.exe
+C:\Users\Ismas\source\repos\Voto Electronico\Voto Electronico\obj\Debug\Voto Electronico.pdb
+C:\Users\Ismas\source\repos\Voto Electronico\Voto Electronico\obj\Debug\Voto_Electronico.FrmCiudadanos.resources
+C:\Users\Ismas\source\repos\Voto Electronico\Voto Electronico\obj\Debug\Voto_Electronico.FrmConsultas.resources
+C:\Users\Ismas\source\repos\Voto Electronico\Voto Electronico\obj\Debug\Voto_Electronico.FrmInicio.resources
+C:\Users\Juan\Desktop\Cosas de la facu\Laboratorio\Voto Electronico\bin\Debug\Voto Electronico.exe.config
+C:\Users\Juan\Desktop\Cosas de la facu\Laboratorio\Voto Electronico\obj\Debug\Voto Electronico.exe
+C:\Users\Juan\Desktop\Cosas de la facu\Laboratorio\Voto Electronico\obj\Debug\Voto Electronico.pdb
+C:\Users\Juan\Desktop\Cosas de la facu\Laboratorio\Voto Electronico\obj\Debug\Voto Electronico.csprojResolveAssemblyReference.cache
+C:\Users\Juan\Desktop\Cosas de la facu\Laboratorio\Voto Electronico\obj\Debug\Voto_Electronico.FrmCiudadanos.resources
+C:\Users\Juan\Desktop\Cosas de la facu\Laboratorio\Voto Electronico\obj\Debug\Voto_Electronico.FrmConsultas.resources
+C:\Users\Juan\Desktop\Cosas de la facu\Laboratorio\Voto Electronico\obj\Debug\Voto_Electronico.FrmInicio.resources
+C:\Users\Juan\Desktop\Cosas de la facu\Laboratorio\Voto Electronico\obj\Debug\Voto_Electronico.Properties.Resources.resources
+C:\Users\Juan\Desktop\Cosas de la facu\Laboratorio\Voto Electronico\obj\Debug\Voto Electronico.csproj.GenerateResource.Cache
+C:\Users\Juan\Desktop\Cosas de la facu\Laboratorio\Voto Electronico\bin\Debug\Voto Electronico.exe
+C:\Users\Juan\Desktop\Cosas de la facu\Laboratorio\Voto Electronico\bin\Debug\Voto Electronico.pdb
+C:\Users\Ismas\Desktop\Voto Electronico\bin\Debug\Voto Electronico.exe.config
+C:\Users\Ismas\Desktop\Voto Electronico\bin\Debug\Voto Electronico.exe
+C:\Users\Ismas\Desktop\Voto Electronico\bin\Debug\Voto Electronico.pdb
+C:\Users\Ismas\Desktop\Voto Electronico\obj\Debug\Voto Electronico.csprojResolveAssemblyReference.cache
+C:\Users\Ismas\Desktop\Voto Electronico\obj\Debug\Voto_Electronico.FrmCiudadanos.resources
+C:\Users\Ismas\Desktop\Voto Electronico\obj\Debug\Voto_Electronico.FrmConsultas.resources
+C:\Users\Ismas\Desktop\Voto Electronico\obj\Debug\Voto_Electronico.FrmInicio.resources
+C:\Users\Ismas\Desktop\Voto Electronico\obj\Debug\Voto_Electronico.Properties.Resources.resources
+C:\Users\Ismas\Desktop\Voto Electronico\obj\Debug\Voto Electronico.csproj.GenerateResource.Cache
+C:\Users\Ismas\Desktop\Voto Electronico\obj\Debug\Voto Electronico.csproj.CoreCompileInputs.cache
+C:\Users\Ismas\Desktop\Voto Electronico\obj\Debug\Voto Electronico.exe
+C:\Users\Ismas\Desktop\Voto Electronico\obj\Debug\Voto Electronico.pdb
+C:\Users\Ismas\Desktop\Voto Electronico\bin\Debug\VotoElectronico V2.mdb
+C:\Users\Ismas\Desktop\Voto Electronico\obj\Debug\Voto_Electronico.FormInforme.resources
+C:\Users\Juan\Desktop\TP FINAL FINAL FINAL\Voto Electronico\bin\Debug\Voto Electronico.exe.config
+C:\Users\Juan\Desktop\TP FINAL FINAL FINAL\Voto Electronico\obj\Debug\Voto Electronico.exe
+C:\Users\Juan\Desktop\TP FINAL FINAL FINAL\Voto Electronico\obj\Debug\Voto Electronico.pdb
+C:\Users\Juan\Desktop\TP FINAL FINAL FINAL\Voto Electronico\bin\Debug\VotoElectronico V2.mdb
+C:\Users\Juan\Desktop\TP FINAL FINAL FINAL\Voto Electronico\bin\Debug\Voto Electronico.exe
+C:\Users\Juan\Desktop\TP FINAL FINAL FINAL\Voto Electronico\bin\Debug\Voto Electronico.pdb
+C:\Users\Juan\Desktop\TP FINAL FINAL FINAL\Voto Electronico\obj\Debug\Voto Electronico.csprojResolveAssemblyReference.cache
+C:\Users\Juan\Desktop\TP FINAL FINAL FINAL\Voto Electronico\obj\Debug\Voto_Electronico.FormInforme.resources
+C:\Users\Juan\Desktop\TP FINAL FINAL FINAL\Voto Electronico\obj\Debug\Voto_Electronico.FrmCiudadanos.resources
+C:\Users\Juan\Desktop\TP FINAL FINAL FINAL\Voto Electronico\obj\Debug\Voto_Electronico.FrmConsultas.resources
+C:\Users\Juan\Desktop\TP FINAL FINAL FINAL\Voto Electronico\obj\Debug\Voto_Electronico.FrmInicio.resources
+C:\Users\Juan\Desktop\TP FINAL FINAL FINAL\Voto Electronico\obj\Debug\Voto_Electronico.Properties.Resources.resources
+C:\Users\Juan\Desktop\TP FINAL FINAL FINAL\Voto Electronico\obj\Debug\Voto Electronico.csproj.GenerateResource.Cache
+C:\Users\Juan\Desktop\Cosas de la facu\TP FINAL FINAL FINAL\Voto Electronico\bin\Debug\VotoElectronico V2.mdb
+C:\Users\Juan\Desktop\Cosas de la facu\TP FINAL FINAL FINAL\Voto Electronico\bin\Debug\Voto Electronico.exe.config
+C:\Users\Juan\Desktop\Cosas de la facu\TP FINAL FINAL FINAL\Voto Electronico\bin\Debug\Voto Electronico.exe
+C:\Users\Juan\Desktop\Cosas de la facu\TP FINAL FINAL FINAL\Voto Electronico\bin\Debug\Voto Electronico.pdb
+C:\Users\Juan\Desktop\Cosas de la facu\TP FINAL FINAL FINAL\Voto Electronico\obj\Debug\Voto_Electronico.FormInforme.resources
+C:\Users\Juan\Desktop\Cosas de la facu\TP FINAL FINAL FINAL\Voto Electronico\obj\Debug\Voto_Electronico.FrmCiudadanos.resources
+C:\Users\Juan\Desktop\Cosas de la facu\TP FINAL FINAL FINAL\Voto Electronico\obj\Debug\Voto_Electronico.FrmConsultas.resources
+C:\Users\Juan\Desktop\Cosas de la facu\TP FINAL FINAL FINAL\Voto Electronico\obj\Debug\Voto_Electronico.FrmInicio.resources
+C:\Users\Juan\Desktop\Cosas de la facu\TP FINAL FINAL FINAL\Voto Electronico\obj\Debug\Voto_Electronico.Properties.Resources.resources
+C:\Users\Juan\Desktop\Cosas de la facu\TP FINAL FINAL FINAL\Voto Electronico\obj\Debug\Voto Electronico.csproj.GenerateResource.Cache
+C:\Users\Juan\Desktop\Cosas de la facu\TP FINAL FINAL FINAL\Voto Electronico\obj\Debug\Voto Electronico.exe
+C:\Users\Juan\Desktop\Cosas de la facu\TP FINAL FINAL FINAL\Voto Electronico\obj\Debug\Voto Electronico.pdb
+C:\Users\Juan\Desktop\Cosas de la facu\TP FINAL FINAL FINAL\Voto Electronico\obj\Debug\Voto Electronico.csprojAssemblyReference.cache
+C:\Users\Juan\Desktop\Cosas de la facu\TP FINAL FINAL FINAL\Voto Electronico\obj\Debug\Voto Electronico.csproj.CoreCompileInputs.cache
